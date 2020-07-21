@@ -19,6 +19,9 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 
 <!--![Erics's GitHub Stats](https://my-github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true) -->
 
+### My Latest Feeds
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### My Socials
 <a href="https://twitter.com/shocm">

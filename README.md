@@ -38,7 +38,10 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 <a href="https://t.me/ericvanjohnson">
   <img align="left" alt="Eric's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
+<a href="https://dev.to/ericvanjohnson">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Eric Van Johnson's DEV Profile" height="30" width="30">
+</a>
+        
 <br/>
 <br/><br/>
 <p>☮</p>

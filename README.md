@@ -15,8 +15,10 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 - [DiegoLabs](https://github.com/DiegoLabs)
 - [SDPHP](https://twitter.com/sdphp)
 
-
 ![Erics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true)
+
+<!--![Erics's GitHub Stats](https://my-github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true) -->
+
 
 ### My Socials
 <a href="https://twitter.com/shocm">

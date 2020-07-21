@@ -17,6 +17,11 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [198:Smooth Jazz Edition](https://phpugly.simplecast.com/episodes/198-41vq1S9n)
+- [197:Homework Assignment](https://phpugly.simplecast.com/episodes/197-C9spFzoN)
+- [196:Late Arrival](https://phpugly.simplecast.com/episodes/196-wUdTO1wq)
+- [195:A New Branch Of Life](https://phpugly.simplecast.com/episodes/195-j4QUJ_AA)
+- [194: Oversight](https://phpugly.simplecast.com/episodes/194-zuA_CHKi)
 <!-- BLOG-POST-LIST:END -->
 
 ![Erics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true)

@@ -3,7 +3,7 @@ Over 20 years of professional IT focus and experience ranging from hands-on impl
 
 Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and for the time being living in SoCal. I'm a PHP Developer, with a passion for working with the [Laravel Framework](https://laravel.com), and I am a advocate of Open Source. I am powered by 16 year old, single malt, Lagavulin Scotch and watching baseball.
 
-<img align="right" alt="A man and his dog" height="400" src="https://www.evernote.com/l/AAHA8r28hjBA2bnj6_y8C4_njsCizVil0RcB/image.jpg" />
+<img align="right" alt="A man and his dog" height="300" src="https://www.evernote.com/l/AAHA8r28hjBA2bnj6_y8C4_njsCizVil0RcB/image.jpg" />
 
   <!--  <img align="right" alt="A man and his dog" height="200" src="https://www.evernote.com/l/AAHKhe09YpJKL5tedE5snyD4LScQ-f1Q6EQB/image.jpg" /> -->
 

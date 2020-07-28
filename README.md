@@ -17,7 +17,7 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
-- [199:Under Cutting the Compitention](https://phpugly.simplecast.com/episodes/199-7HdyZ1_i)
+- [199:Under Cutting the Competition](https://phpugly.simplecast.com/episodes/199-7HdyZ1_i)
 - [Interview with Edward Barnard](https://www.phparch.com/podcast/interview-with-edward-barnard/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-edward-barnard)
 - [198:Smooth Jazz Edition](https://phpugly.simplecast.com/episodes/198-41vq1S9n)
 - [197:Homework Assignment](https://phpugly.simplecast.com/episodes/197-C9spFzoN)

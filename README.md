@@ -17,11 +17,11 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [200:Rebasing](https://phpugly.simplecast.com/episodes/200-L3q6Ov7b)
 - [Test Driven Development, Event-Driven Design, and Concise Code](https://www.phparch.com/podcast/test-driven-development-event-driven-design-and-concise-code/?utm_source=rss&utm_medium=rss&utm_campaign=test-driven-development-event-driven-design-and-concise-code)
 - [199:Under Cutting the Competition](https://phpugly.simplecast.com/episodes/199-7HdyZ1_i)
 - [Interview with Edward Barnard](https://www.phparch.com/podcast/interview-with-edward-barnard/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-edward-barnard)
 - [198:Smooth Jazz Edition](https://phpugly.simplecast.com/episodes/198-41vq1S9n)
-- [197:Homework Assignment](https://phpugly.simplecast.com/episodes/197-C9spFzoN)
 <!-- BLOG-POST-LIST:END -->
 
 ![Erics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true)

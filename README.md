@@ -17,11 +17,11 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Dave Stokes on JSON-Schema, and MySQL](https://www.phparch.com/podcast/interview-with-dave-stokes-on-json-schema-and-mysql/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-dave-stokes-on-json-schema-and-mysql)
 - [201:Champion Level](https://phpugly.simplecast.com/episodes/201-yQKb1ISa)
 - [Editor Bytes – Data Discipline](https://www.phparch.com/podcast/editor-bytes-data-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-data-discipline)
 - [200:Rebasing](https://phpugly.simplecast.com/episodes/200-L3q6Ov7b)
 - [Test Driven Development, Event-Driven Design, and Concise Code](https://www.phparch.com/podcast/test-driven-development-event-driven-design-and-concise-code/?utm_source=rss&utm_medium=rss&utm_campaign=test-driven-development-event-driven-design-and-concise-code)
-- [199:Under Cutting the Competition](https://phpugly.simplecast.com/episodes/199-7HdyZ1_i)
 <!-- BLOG-POST-LIST:END -->
 
 ![Erics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true)

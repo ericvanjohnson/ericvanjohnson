@@ -1,11 +1,18 @@
-# Eric Van Johnson
-Over 20 years of professional IT focus and experience ranging from hands-on implementer to senior management, from small IT groups of only a couple technicians to a Global Fortune 100 enterprise organization providing strategic vision, direction and leadership. 
+### Eric Van Johnson
+#### Developer and Architect
+![Developer and Architect](https://www.evernote.com/l/AAHA8r28hjBA2bnj6_y8C4_njsCizVil0RcB/image.jpg)
 
-Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and for the time being living in SoCal. I'm a PHP Developer, with a passion for working with the [Laravel Framework](https://laravel.com), and I am a advocate of Open Source. I am powered by 16 year old, single malt, Lagavulin Scotch and watching baseball.
+Over 20 years of professional IT focus and experience currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and for the time being, living in SoCal. I'm a PHP Developer, with a passion for working with the [Laravel Framework](https://laravel.com), and I am an advocate of Open Source. I am powered by 16-year-old, single malt, Lagavulin Scotch and watching baseball.
 
-<img align="right" alt="A man and his dog" height="300" src="https://www.evernote.com/l/AAHA8r28hjBA2bnj6_y8C4_njsCizVil0RcB/image.jpg" />
+Skills: PHP / Laravel / Web Development
 
-  <!--  <img align="right" alt="A man and his dog" height="200" src="https://www.evernote.com/l/AAHKhe09YpJKL5tedE5snyD4LScQ-f1Q6EQB/image.jpg" /> -->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ericvanjohnson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ericvanjohnson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vanjohnson/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shocm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/560190)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/phpugly)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/shocm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://diegodev.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/ericvanjohnson)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericvanjohnson&show_icons=true)  
 
  ### 🎙Podcaster: 
  - [@PHPUgly](https://twitter.com/phpugly)
@@ -23,25 +30,3 @@ Currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and 
 - [Editor Bytes – Data Discipline](https://www.phparch.com/podcast/editor-bytes-data-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-data-discipline)
 - [200:Rebasing](https://phpugly.simplecast.com/episodes/200-L3q6Ov7b)
 <!-- BLOG-POST-LIST:END -->
-
-![Erics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true)
-
-<!--![Erics's GitHub Stats](https://my-github-readme-stats.vercel.app/api?username=ericvanjohnson&hide=["stars"]&theme=onedark&show_icons=true) -->
-
-### My Socials
-<a href="https://twitter.com/shocm">
-  <img align="left" alt="Shocm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vanjohnson/">
-  <img align="left" alt="Eric Van Johnson's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/ericvanjohnson">
-  <img align="left" alt="Eric's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://dev.to/ericvanjohnson">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Eric Van Johnson's DEV Profile" height="30" width="30">
-</a>
-        
-<br/>
-<br/><br/>
-<p>☮</p>

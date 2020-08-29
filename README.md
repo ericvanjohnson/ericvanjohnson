@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [203:Laracon 2020 Review](https://phpugly.simplecast.com/episodes/203-TpgyoAeA)
 - [202:Toothpaste Patching](https://phpugly.simplecast.com/episodes/202-gk2mbdfU)
 - [Interview with Dave Stokes on JSON-Schema, and MySQL](https://www.phparch.com/podcast/interview-with-dave-stokes-on-json-schema-and-mysql/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-dave-stokes-on-json-schema-and-mysql)
 - [201:Champion Level](https://phpugly.simplecast.com/episodes/201-yQKb1ISa)
 - [Editor Bytes – Data Discipline](https://www.phparch.com/podcast/editor-bytes-data-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-data-discipline)
-- [200:Rebasing](https://phpugly.simplecast.com/episodes/200-L3q6Ov7b)
 <!-- BLOG-POST-LIST:END -->

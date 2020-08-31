@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Document databases, MySQL, JSON-Schema validation, and PHP types](https://www.phparch.com/podcast/document-databases-mysql-json-schema-validationand-php-types/?utm_source=rss&utm_medium=rss&utm_campaign=document-databases-mysql-json-schema-validationand-php-types)
 - [203:Laracon 2020 Review](https://phpugly.simplecast.com/episodes/203-TpgyoAeA)
 - [202:Toothpaste Patching](https://phpugly.simplecast.com/episodes/202-gk2mbdfU)
 - [Interview with Dave Stokes on JSON-Schema, and MySQL](https://www.phparch.com/podcast/interview-with-dave-stokes-on-json-schema-and-mysql/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-dave-stokes-on-json-schema-and-mysql)
 - [201:Champion Level](https://phpugly.simplecast.com/episodes/201-yQKb1ISa)
-- [Editor Bytes – Data Discipline](https://www.phparch.com/podcast/editor-bytes-data-discipline/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-data-discipline)
 <!-- BLOG-POST-LIST:END -->

@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Terri Morgan](https://www.phparch.com/podcast/interview-with-terri-morgan/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-terri-morgan)
 - [206:Popping Off](https://phpugly.simplecast.com/episodes/206-fjLuW7Zu)
 - [205:Laravel Release Party](https://phpugly.simplecast.com/episodes/205-bTr5YNd0)
 - [Editor Bytes – Under the Scope](https://www.phparch.com/podcast/editor-bytes-under-the-scope/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-under-the-scope)
 - [204:New Stream](https://phpugly.simplecast.com/episodes/204-KkkHadw1)
-- [Document databases, MySQL, JSON-Schema validation, and PHP types](https://www.phparch.com/podcast/document-databases-mysql-json-schema-validationand-php-types/?utm_source=rss&utm_medium=rss&utm_campaign=document-databases-mysql-json-schema-validationand-php-types)
 <!-- BLOG-POST-LIST:END -->

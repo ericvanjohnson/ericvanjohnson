@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Editor Bytes – Parallel Running](https://www.phparch.com/podcast/editor-bytes-parallel-running/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-parallel-running)
 - [208:Match clashing](https://phpugly.simplecast.com/episodes/208-AAsliNVw)
 - [Middleware, Serializing Objects,](https://www.phparch.com/podcast/middleware-serializing-objects/?utm_source=rss&utm_medium=rss&utm_campaign=middleware-serializing-objects)
 - [207:Carbon Time](https://phpugly.simplecast.com/episodes/207-vpGctIDO)
 - [Interview with Terri Morgan](https://www.phparch.com/podcast/interview-with-terri-morgan/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-terri-morgan)
-- [206:Popping Off](https://phpugly.simplecast.com/episodes/206-fjLuW7Zu)
 <!-- BLOG-POST-LIST:END -->

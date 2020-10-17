@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [210:The PHPUgly Anthem](https://phpugly.simplecast.com/episodes/210-efGOCsZ_)
 - [209:Lick Me](https://phpugly.simplecast.com/episodes/209-LPhsTz_g)
 - [Editor Bytes – Parallel Running](https://www.phparch.com/podcast/editor-bytes-parallel-running/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-parallel-running)
 - [208:Match clashing](https://phpugly.simplecast.com/episodes/208-AAsliNVw)
 - [Middleware, Serializing Objects,](https://www.phparch.com/podcast/middleware-serializing-objects/?utm_source=rss&utm_medium=rss&utm_campaign=middleware-serializing-objects)
-- [207:Carbon Time](https://phpugly.simplecast.com/episodes/207-vpGctIDO)
 <!-- BLOG-POST-LIST:END -->

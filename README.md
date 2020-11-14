@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [213:They Stole Steve](https://phpugly.simplecast.com/episodes/213-lNrmJsH7)
 - [212:PHP 8 Deep Dive](https://phpugly.simplecast.com/episodes/212-I4rRgOCE)
 - [Asynchronous programming, testing, race conditions, mental health in tech, and more](https://www.phparch.com/podcast/asynchronous-programming-testing-race-conditions-mental-health-in-tech-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=asynchronous-programming-testing-race-conditions-mental-health-in-tech-and-more)
 - [Interview with Demin Yin on Swoole](https://www.phparch.com/podcast/interview-with-demin-yin-on-swoole/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-demin-yin-on-swoole)
 - [211:I Forgot The Title](https://phpugly.simplecast.com/episodes/211-W3pCXYbC)
-- [210:The PHPUgly Anthem](https://phpugly.simplecast.com/episodes/210-efGOCsZ_)
 <!-- BLOG-POST-LIST:END -->

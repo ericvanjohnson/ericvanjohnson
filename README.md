@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [215:PHP 8 Release](https://phpugly.simplecast.com/episodes/215-BE0sPCH7)
 - [Type hints, SOLID programming, burn out, and more](https://www.phparch.com/podcast/type-hints-solid-programming-burn-out-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=type-hints-solid-programming-burn-out-and-more)
 - [214:Positive Vibes](https://phpugly.simplecast.com/episodes/214-N_4q46PC)
 - [Editor Bytes – SOLID Foundations](https://www.phparch.com/podcast/editor-bytes-solid-foundations/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-solid-foundations)
 - [213:They Stole Steve](https://phpugly.simplecast.com/episodes/213-lNrmJsH7)
-- [212:PHP 8 Deep Dive](https://phpugly.simplecast.com/episodes/212-I4rRgOCE)
 <!-- BLOG-POST-LIST:END -->

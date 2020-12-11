@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [216:Sailing with Laravel](https://phpugly.simplecast.com/episodes/216-zTGjjMKb)
 - [Editor Bytes – PHP 8 Bits and Git](https://www.phparch.com/podcast/editor-bytes-php-8-bits-and-git/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-php-8-bits-and-git)
 - [Interview with Beth Tucker Long](https://www.phparch.com/podcast/interview-with-beth-tucker-long/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-beth-tucker-long)
 - [215:PHP 8 Release](https://phpugly.simplecast.com/episodes/215-BE0sPCH7)
 - [Type hints, SOLID programming, burn out, and more](https://www.phparch.com/podcast/type-hints-solid-programming-burn-out-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=type-hints-solid-programming-burn-out-and-more)
-- [214:Positive Vibes](https://phpugly.simplecast.com/episodes/214-N_4q46PC)
 <!-- BLOG-POST-LIST:END -->

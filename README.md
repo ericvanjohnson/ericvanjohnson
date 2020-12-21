@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [PHP 8, Git Poductivity, and Resolutions](https://www.phparch.com/podcast/php-8-git-poductivity-and-resolutions/?utm_source=rss&utm_medium=rss&utm_campaign=php-8-git-poductivity-and-resolutions)
 - [217: Our Guest is as Good as Yours](https://phpugly.simplecast.com/episodes/217-our-guest-is-as-good-as-yours-LU6M1gNH)
 - [216:Sailing with Laravel](https://phpugly.simplecast.com/episodes/216-zTGjjMKb)
 - [Editor Bytes – PHP 8 Bits and Git](https://www.phparch.com/podcast/editor-bytes-php-8-bits-and-git/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-php-8-bits-and-git)
 - [Interview with Beth Tucker Long](https://www.phparch.com/podcast/interview-with-beth-tucker-long/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-beth-tucker-long)
-- [215:PHP 8 Release](https://phpugly.simplecast.com/episodes/215-BE0sPCH7)
 <!-- BLOG-POST-LIST:END -->

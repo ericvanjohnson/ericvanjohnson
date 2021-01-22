@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [220:PHP and Baby Goats](https://phpugly.simplecast.com/episodes/220-5DQOxUcB)
 - [Interview with Chris Tankersley](https://www.phparch.com/podcast/interview-with-chris-tankersley/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-chris-tankersley)
 - [219:Programming Pears](https://phpugly.simplecast.com/episodes/219-j_r33lTw)
 - [218:Viva PHP 2021](https://phpugly.simplecast.com/episodes/218-Kq9hzk5Z)
 - [Interview with Vinícius Campitelli](https://www.phparch.com/podcast/interview-with-vinicius-campitelli/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-vinicius-campitelli)
-- [PHP 8, Git Poductivity, and Resolutions](https://www.phparch.com/podcast/php-8-git-poductivity-and-resolutions/?utm_source=rss&utm_medium=rss&utm_campaign=php-8-git-poductivity-and-resolutions)
 <!-- BLOG-POST-LIST:END -->

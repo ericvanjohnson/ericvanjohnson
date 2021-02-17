@@ -21,6 +21,6 @@ Over 20 years of professional IT focus and experience currently working at the [
 - [223:I am Human](https://phpugly.simplecast.com/episodes/223-kETwpjIv)
 - [222:PHP Security Tools](https://phpugly.simplecast.com/episodes/222-D804nTvp)
 - [221:The PHP Big Short](https://phpugly.simplecast.com/episodes/221-R4YSYBcM)
-- [Front-end frameworks, dev lead duties, subresource security, and more](https://www.phparch.com/podcast/front-end-frameworks-dev-lead-duties-subresource-security-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=front-end-frameworks-dev-lead-duties-subresource-security-and-more)
 - [220:PHP and Baby Goats](https://phpugly.simplecast.com/episodes/220-5DQOxUcB)
+- [219:Programming Pears](https://phpugly.simplecast.com/episodes/219-j_r33lTw)
 <!-- BLOG-POST-LIST:END -->

@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Michael Akopov](https://www.phparch.com/podcast/interview-with-michael-akopov/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-michael-akopov)
 - [224:The UUID Life](https://phpugly.simplecast.com/episodes/224-AK6kiCBC)
 - [223:I am Human](https://phpugly.simplecast.com/episodes/223-kETwpjIv)
 - [222:PHP Security Tools](https://phpugly.simplecast.com/episodes/222-D804nTvp)
 - [221:The PHP Big Short](https://phpugly.simplecast.com/episodes/221-R4YSYBcM)
-- [Front-end frameworks, dev lead duties, subresource security, and more](https://www.phparch.com/podcast/front-end-frameworks-dev-lead-duties-subresource-security-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=front-end-frameworks-dev-lead-duties-subresource-security-and-more)
 <!-- BLOG-POST-LIST:END -->

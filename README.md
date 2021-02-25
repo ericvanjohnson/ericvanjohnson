@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Mezzio framework, functional programming, software dependency security](https://www.phparch.com/podcast/mezzio-framework-functional-programming-software-dependency-security/?utm_source=rss&utm_medium=rss&utm_campaign=mezzio-framework-functional-programming-software-dependency-security)
 - [Interview with Michael Akopov](https://www.phparch.com/podcast/interview-with-michael-akopov/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-michael-akopov)
 - [224:The UUID Life](https://phpugly.simplecast.com/episodes/224-AK6kiCBC)
 - [223:I am Human](https://phpugly.simplecast.com/episodes/223-kETwpjIv)
 - [222:PHP Security Tools](https://phpugly.simplecast.com/episodes/222-D804nTvp)
-- [221:The PHP Big Short](https://phpugly.simplecast.com/episodes/221-R4YSYBcM)
 <!-- BLOG-POST-LIST:END -->

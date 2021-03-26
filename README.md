@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [229: No Perceived Value](https://phpugly.simplecast.com/episodes/229-sBPWjM5V)
 - [Editor Bytes – Lambda PHP](https://www.phparch.com/podcast/editor-bytes-lambda-php/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-lambda-php)
 - [228:Octane Infused](https://phpugly.simplecast.com/episodes/228-vJoYCTla)
 - [227:Math Is Hard](https://phpugly.simplecast.com/episodes/227-1DTu69Od)
 - [226: HELP WANTED, PHP Release Manager](https://phpugly.simplecast.com/episodes/226-Dfy2VONz)
-- [225:Tatted Up](https://phpugly.simplecast.com/episodes/225-4SkLZ3Vv)
 <!-- BLOG-POST-LIST:END -->

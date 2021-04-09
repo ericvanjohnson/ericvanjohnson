@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
+- [231: Super Villains](https://phpugly.simplecast.com/episodes/231-F6GwTeJ6)
 - [Serverless LAMP, Refactoring Legacy Code, and Functional Programming](https://www.phparch.com/podcast/serverless-lamp-refactoring-legacy-code-and-functional-programming/?utm_source=rss&utm_medium=rss&utm_campaign=serverless-lamp-refactoring-legacy-code-and-functional-programming)
 - [230:PHP'ing in a Bottle](https://phpugly.simplecast.com/episodes/230-PMW1Mre_)
 - [About PHP’s Compromised Git Commit](https://www.phparch.com/podcast/about-phps-compromised-git-commit/?utm_source=rss&utm_medium=rss&utm_campaign=about-phps-compromised-git-commit)
 - [Special PHP Discussion Panel](https://phpugly.simplecast.com/episodes/special-php-discussion-panel-ig2l1-4s-k_ELuKSD)
-- [Interview with Juciellen Cabrera](https://www.phparch.com/podcast/interview-with-juciellen-cabrera/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-juciellen-cabrera)
 <!-- BLOG-POST-LIST:END -->

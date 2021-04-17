@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Feeds
 <!-- BLOG-POST-LIST:START -->
-- [232:PHP Animal Style](https://phpugly.simplecast.com/episodes/232-Ds3yxXlh)
-- [231: Super Villains](https://phpugly.simplecast.com/episodes/231-F6GwTeJ6)
+- [232:PHP Animal Style](https://www.phpugly.com/episodes/232-Ds3yxXlh)
+- [231: Super Villains](https://www.phpugly.com/episodes/231-F6GwTeJ6)
 - [Serverless LAMP, Refactoring Legacy Code, and Functional Programming](https://www.phparch.com/podcast/serverless-lamp-refactoring-legacy-code-and-functional-programming/?utm_source=rss&utm_medium=rss&utm_campaign=serverless-lamp-refactoring-legacy-code-and-functional-programming)
-- [230:PHP'ing in a Bottle](https://phpugly.simplecast.com/episodes/230-PMW1Mre_)
+- [230:PHP'ing in a Bottle](https://www.phpugly.com/episodes/230-PMW1Mre_)
 - [About PHP’s Compromised Git Commit](https://www.phparch.com/podcast/about-phps-compromised-git-commit/?utm_source=rss&utm_medium=rss&utm_campaign=about-phps-compromised-git-commit)
 <!-- BLOG-POST-LIST:END -->

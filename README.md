@@ -16,7 +16,7 @@ Over 20 years of professional IT focus and experience currently working at the [
 - [DiegoLabs](https://github.com/DiegoLabs)
 - [SDPHP](https://twitter.com/sdphp)
 
-### My Latest Feeds
+### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
 - [Interview with Mark Kelnar](https://www.phparch.com/podcast/interview-with-mark-kelnar/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-mark-kelnar)
 - [234:Tom Finally Quit](https://www.phpugly.com/episodes/234-EBWwDmFn)

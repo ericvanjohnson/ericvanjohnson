@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [236:Memory Leaks](https://www.phpugly.com/episodes/236-UIL9FIhJ)
 - [235:Ugly Hot Tub PHP Coding](https://www.phpugly.com/episodes/235-9R27JGI0)
 - [Interview with Mark Kelnar](https://www.phparch.com/podcast/interview-with-mark-kelnar/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-mark-kelnar)
 - [234:Tom Finally Quit](https://www.phpugly.com/episodes/234-EBWwDmFn)
 - [Project Management, Tech Literacy, Password Hashing, Containers, and APIs.](https://www.phparch.com/podcast/project-management-tech-literacy-password-hashing-containers-and-apis/?utm_source=rss&utm_medium=rss&utm_campaign=project-management-tech-literacy-password-hashing-containers-and-apis)
-- [Editor Bytes, April 2021](https://www.phparch.com/podcast/editor-bytes-april-2021/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-april-2021)
 <!-- BLOG-POST-LIST:END -->

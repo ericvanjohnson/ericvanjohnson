@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Interview #2 with Joe Ferguson](https://www.phparch.com/podcast/interview-2-with-joe-ferguson/?utm_source=rss&utm_medium=rss&utm_campaign=interview-2-with-joe-ferguson)
 - [237:The Case Of Cyclomatic Complexity](http://www.phpugly.com)
 - [236:Memory Leaks](http://www.phpugly.com)
 - [235:Ugly Hot Tub PHP Coding](http://www.phpugly.com)
 - [Interview with Mark Kelnar](https://www.phparch.com/podcast/interview-with-mark-kelnar/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-mark-kelnar)
-- [234:Tom Finally Quit](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

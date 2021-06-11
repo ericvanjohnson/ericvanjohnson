@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [240: Old Man Coder](http://www.phpugly.com)
 - [239: I'm a PHP Uggo](http://www.phpugly.com)
 - [238: No Trello Cards, No Problem. WE DO IT LIVE!](http://www.phpugly.com)
 - [RoadRunner, Atoum, IDEs, Feature Tests,  DIY API,  Wizard Thinking](https://www.phparch.com/podcast/episode-57/?utm_source=rss&utm_medium=rss&utm_campaign=episode-57)
 - [Editor Bytes – May 2021](https://www.phparch.com/podcast/editor-bytes-may-2021/?utm_source=rss&utm_medium=rss&utm_campaign=editor-bytes-may-2021)
-- [Interview #2 with Joe Ferguson](https://www.phparch.com/podcast/interview-2-with-joe-ferguson/?utm_source=rss&utm_medium=rss&utm_campaign=interview-2-with-joe-ferguson)
 <!-- BLOG-POST-LIST:END -->

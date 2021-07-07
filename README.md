@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Debugging, Automation, GitHub Actions, Bug Bounties, and API Security](https://www.phparch.com/podcast/debugging-automation-github-actions-bug-bounties-and-api-security/?utm_source=rss&utm_medium=rss&utm_campaign=debugging-automation-github-actions-bug-bounties-and-api-security)
 - [243: Project Managementality](http://www.phpugly.com)
 - [Interview with Joseph Maxwell](https://www.phparch.com/podcast/interview-with-joseph-maxwell/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-joseph-maxwell)
 - [242:Consuming APIs ... Correctly](http://www.phpugly.com)
 - [241: Livewire Live Tonight](http://www.phpugly.com)
-- [240: Old Man Coder](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

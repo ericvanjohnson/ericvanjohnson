@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [247:Just Google ..... oh no don't, I was wrong](http://www.phpugly.com)
 - [Elasticsearch, Teaching PHP, Design Patterns, People, Joe Watkins, and more](https://www.phparch.com/podcast/elasticsearch-teaching-php-design-patterns-people-joe-watkins-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=elasticsearch-teaching-php-design-patterns-people-joe-watkins-and-more)
 - [246:Spilled Beans](http://www.phpugly.com)
 - [245: Exposing Secrets](http://www.phpugly.com)
 - [244: No Structure](http://www.phpugly.com)
-- [Debugging, Automation, GitHub Actions, Bug Bounties, and API Security](https://www.phparch.com/podcast/debugging-automation-github-actions-bug-bounties-and-api-security/?utm_source=rss&utm_medium=rss&utm_campaign=debugging-automation-github-actions-bug-bounties-and-api-security)
 <!-- BLOG-POST-LIST:END -->

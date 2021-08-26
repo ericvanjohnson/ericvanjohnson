@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Scott Keck-Warren](https://www.phparch.com/podcast/interview-with-scott-keck-warren/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-scott-keck-warren)
 - [250: Slightly Mean Spirited](http://www.phpugly.com)
 - [249:PHP on Mars?](http://www.phpugly.com)
 - [248: PHP Deviants](http://www.phpugly.com)
 - [Interview with Ken Marks](https://www.phparch.com/podcast/interview-with-ken-marks/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-ken-marks)
-- [247:Just Google ..... oh no don't, I was wrong](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

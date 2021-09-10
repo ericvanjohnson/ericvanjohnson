@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [253:Extra!Extra!Extra](http://www.phpugly.com)
 - [252: Nerdcation](http://www.phpugly.com)
 - [Functional PHP, Laravel Horizon, MFA, Testing with Pest, Taylor Otwell, and more](https://www.phparch.com/podcast/functional-php-laravel-horizon-mfa-testing-with-pest-taylor-otwell-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=functional-php-laravel-horizon-mfa-testing-with-pest-taylor-otwell-and-more)
 - [251: Reviewing My Style](http://www.phpugly.com)
 - [Interview with Scott Keck-Warren](https://www.phparch.com/podcast/interview-with-scott-keck-warren/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-scott-keck-warren)
-- [250: Slightly Mean Spirited](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

@@ -1,6 +1,6 @@
 ### Eric Van Johnson
 #### Developer and Architect
-![Developer and Architect](https://github.com/ericvanjohnson/ericvanjohnson/blob/master/images/banner-OB.png)
+![Developer and Architect](https://user-images.githubusercontent.com/89408/133867885-ac17ef9f-dabf-408c-8c76-a17c851c543e.gif)
 
 Over 20 years of professional IT focus and experience currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and for the time being, living in SoCal. I'm a PHP Developer, with a passion for working with the [Laravel Framework](https://laravel.com), and I am an advocate of Open Source. I am powered by 16-year-old single malt Lagavulin Scotch and watching baseball.
 

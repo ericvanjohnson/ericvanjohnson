@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [255:Critical Care](http://www.phpugly.com)
 - [Upgrading code with Rector, CQRS, Livewire, is PHP the Worst?, and more](https://www.phparch.com/podcast/upgrading-code-with-rector-cqrs-livewire-is-php-the-worst-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=upgrading-code-with-rector-cqrs-livewire-is-php-the-worst-and-more)
 - [254:Testing Patience](http://www.phpugly.com)
 - [253:Extra! Extra! Listen All About It!](http://www.phpugly.com)
 - [252: Nerdcation](http://www.phpugly.com)
-- [Functional PHP, Laravel Horizon, MFA, Testing with Pest, Taylor Otwell, and more](https://www.phparch.com/podcast/functional-php-laravel-horizon-mfa-testing-with-pest-taylor-otwell-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=functional-php-laravel-horizon-mfa-testing-with-pest-taylor-otwell-and-more)
 <!-- BLOG-POST-LIST:END -->

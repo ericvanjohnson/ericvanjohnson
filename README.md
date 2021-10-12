@@ -19,8 +19,8 @@ Over 20 years of professional IT focus and experience currently working at the [
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
 - [257: Involuntary Open Source](http://www.phpugly.com)
-- [Interview with Tomas Votruba](https://www.phparch.com/podcast/interview-with-tomas-votruba/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-tomas-votruba)
 - [256:PHP Head Colds](http://www.phpugly.com)
 - [255:Critical Care](http://www.phpugly.com)
-- [Upgrading code with Rector, CQRS, Livewire, is PHP the Worst?, and more](https://www.phparch.com/podcast/upgrading-code-with-rector-cqrs-livewire-is-php-the-worst-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=upgrading-code-with-rector-cqrs-livewire-is-php-the-worst-and-more)
+- [254:Testing Patience](http://www.phpugly.com)
+- [253:Extra! Extra! Listen All About It!](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

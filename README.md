@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [259: Disabled Child Nodes](http://www.phpugly.com)
 - [258: PHP Catastrophe](http://www.phpugly.com)
 - [257: Involuntary Open Source](http://www.phpugly.com)
 - [Interview with Tomas Votruba](https://www.phparch.com/podcast/interview-with-tomas-votruba/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-tomas-votruba)
 - [256:PHP Head Colds](http://www.phpugly.com)
-- [255:Critical Care](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

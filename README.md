@@ -19,7 +19,7 @@ Over 20 years of professional IT focus and experience currently working at the [
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
 - [260:Copilot](http://www.phpugly.com)
-- [Decrypting Cryptography](https://www.phparch.com/podcast/decrypting-cryptography/?utm_source=rss&utm_medium=rss&utm_campaign=decrypting-cryptography)
+- [Decrypting Cryptography](https://www.phparch.com/podcast/decrypting-cryptography/)
 - [259: Disabled Child Nodes](http://www.phpugly.com)
 - [258: PHP Catastrophe](http://www.phpugly.com)
 - [257: Involuntary Open Source](http://www.phpugly.com)

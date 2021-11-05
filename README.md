@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [261:Bots Learning PHP](http://www.phpugly.com)
 - [260:Copilot](http://www.phpugly.com)
 - [Decrypting Cryptography](https://www.phparch.com/podcast/decrypting-cryptography/)
 - [259: Disabled Child Nodes](http://www.phpugly.com)
 - [258: PHP Catastrophe](http://www.phpugly.com)
-- [257: Involuntary Open Source](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

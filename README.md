@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Interview with Vinícius Campitelli](https://www.phparch.com/podcast/interview-with-vinicius-campitelli-2/)
 - [263:PHP Will Last](http://www.phpugly.com)
 - [262:PHP8.1](http://www.phpugly.com)
 - [261:Bots Learning PHP](http://www.phpugly.com)
 - [260:Copilot](http://www.phpugly.com)
-- [Decrypting Cryptography](https://www.phparch.com/podcast/decrypting-cryptography/)
 <!-- BLOG-POST-LIST:END -->

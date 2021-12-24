@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [The Zen Of Mindful Programming](https://www.phparch.com/podcast/the-zen-of-mindful-programming/)
 - [266:PHP For Kids](http://www.phpugly.com)
 - [265: PHP Cows](http://www.phpugly.com)
 - [264: Insane In the Jetbrain](http://www.phpugly.com)
 - [The Art of Data](https://www.phparch.com/podcast/the-art-of-data/)
-- [Interview with Vinícius Campitelli](https://www.phparch.com/podcast/interview-with-vinicius-campitelli-2/)
 <!-- BLOG-POST-LIST:END -->

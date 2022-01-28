@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [271: PHPUgly Dropping Tables](http://www.phpugly.com)
 - [270: I'm a better thinker](http://www.phpugly.com)
 - [269: No Benefits, All the Regret](http://www.phpugly.com)
 - [268: Schrödinger's flamingo 🦩](http://www.phpugly.com)
 - [267: 2021 is a Wrap](http://www.phpugly.com)
-- [The Zen Of Mindful Programming](https://www.phparch.com/podcast/the-zen-of-mindful-programming/)
 <!-- BLOG-POST-LIST:END -->

@@ -19,8 +19,8 @@ Over 20 years of professional IT focus and experience currently working at the [
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
 - [272: Tom's PHP Reflection](http://www.phpugly.com)
-- [Domain-Driven Resolutions](https://www.phparch.com/podcast/domain-driven-resolutions/)
 - [271: PHPUgly Dropping Tables](http://www.phpugly.com)
 - [270: I'm a better thinker](http://www.phpugly.com)
 - [269: No Benefits, All the Regret](http://www.phpugly.com)
+- [268: Schrödinger's flamingo 🦩](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

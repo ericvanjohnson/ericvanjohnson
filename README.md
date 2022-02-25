@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [275: Rubber Necking PHP](http://www.phpugly.com)
 - [274: Testing Patience](http://www.phpugly.com)
 - [273: John Flying High](http://www.phpugly.com)
 - [272: Tom's PHP Reflection](http://www.phpugly.com)
 - [Domain-Driven Resolutions](https://www.phparch.com/podcast/domain-driven-resolutions/)
-- [271: PHPUgly Dropping Tables](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

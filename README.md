@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [277:  PHP, Baseball,  Cars, and Grifters](http://www.phpugly.com)
 - [276: Semi-Successful](http://www.phpugly.com)
 - [Parallelize Your Code](https://www.phparch.com/podcast/parallelize-your-code/)
 - [275: Rubber Necking PHP](http://www.phpugly.com)
 - [274: Testing Patience](http://www.phpugly.com)
-- [273: John Flying High](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

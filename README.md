@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [280: VPN to My Heart](http://www.phpugly.com)
 - [279: PHP Bad Magic](http://www.phpugly.com)
 - [278:  Time flies when talking DST](http://www.phpugly.com)
 - [277:  PHP, Baseball,  Cars, and Grifters](http://www.phpugly.com)
 - [276: Semi-Successful](http://www.phpugly.com)
-- [Parallelize Your Code](https://www.phparch.com/podcast/parallelize-your-code/)
 <!-- BLOG-POST-LIST:END -->

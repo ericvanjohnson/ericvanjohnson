@@ -18,9 +18,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [283: An Ugly PHP Match](http://www.phpugly.com)
 - [282: Crotch sign language](http://www.phpugly.com)
 - [Testing The Core](https://www.phparch.com/podcast/testing-the-core/)
 - [281: Coding On Opening Day](http://www.phpugly.com)
 - [World Backup Day](https://www.phparch.com/podcast/world-backup-day/)
-- [280: VPN to My Heart](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

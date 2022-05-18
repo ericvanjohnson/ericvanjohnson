@@ -21,9 +21,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [84: Back at the Table](https://www.phproundtable.com)
 - [One Last Slice](https://www.phparch.com/podcast/one-last-slice/)
 - [286: Complete System Failure](http://www.phpugly.com)
 - [285:The Three PHP Amigos](http://www.phpugly.com)
 - [284: To PHP or Not To PHP](http://www.phpugly.com)
-- [283: An Ugly PHP Match](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

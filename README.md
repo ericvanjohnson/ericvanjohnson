@@ -1,6 +1,8 @@
 ### Eric Van Johnson
 #### Developer and Architect
-![Developer and Architect](https://user-images.githubusercontent.com/89408/133867885-ac17ef9f-dabf-408c-8c76-a17c851c543e.gif)
+![Developer and Architect](https://user-images.githubusercontent.com/89408/169173634-3bc92438-1eb2-44e4-92c2-6e7d1e36f6a3.gif)
+
+
 
 Over 20 years of professional IT focus and experience currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and for php[architect] while living in SoCal. I'm a PHP Developer, with a passion for working with the [Laravel Framework](https://laravel.com), and I am an advocate of Open Source. I am powered by 16-year-old single malt Lagavulin Scotch and watching baseball.
 
@@ -21,9 +23,9 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
-- [84: Back at the Table](https://www.phproundtable.com)
 - [One Last Slice](https://www.phparch.com/podcast/one-last-slice/)
 - [286: Complete System Failure](http://www.phpugly.com)
 - [285:The Three PHP Amigos](http://www.phpugly.com)
 - [284: To PHP or Not To PHP](http://www.phpugly.com)
+- [283: An Ugly PHP Match](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->

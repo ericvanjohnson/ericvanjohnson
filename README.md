@@ -34,4 +34,4 @@ Over 20 years of professional IT focus and experience currently working at the [
 <!-- BLOG-POST-LIST:END -->
 
 
-<a rel="me" href="https://phpc.social/@shocm"></a>
+<a rel="me" href="https://phpc.social/@shocm">....</a>

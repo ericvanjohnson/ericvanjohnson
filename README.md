@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [289: PHP Multiverse](http://www.phpugly.com)
 - [Another Bright Idea](https://www.phparch.com/podcast/another-bright-idea/)
 - [288: Burnt Pi's](http://www.phpugly.com)
 - [287: PHP Doesn't Scale](http://www.phpugly.com)
 - [84: Back at the Table](https://www.phproundtable.com)
-- [One Last Slice](https://www.phparch.com/podcast/one-last-slice/)
 <!-- BLOG-POST-LIST:END -->
 
 

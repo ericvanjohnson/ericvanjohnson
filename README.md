@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [292:Laravel is a Wrapper for PHP](http://www.phpugly.com)
 - [291: Artificial Stupidity](http://www.phpugly.com)
 - [290: PHP Lambos and Lambdas](http://www.phpugly.com)
 - [289: PHP Multiverse](http://www.phpugly.com)
 - [Another Bright Idea](https://www.phparch.com/podcast/another-bright-idea/)
-- [288: Burnt Pi's](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

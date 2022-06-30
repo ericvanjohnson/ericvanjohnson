@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Database Freedom](https://www.phparch.com/podcast/database-freedom/)
 - [85: The State of PHP User Groups](https://www.phproundtable.com)
 - [292:Laravel is a Wrapper for PHP](http://www.phpugly.com)
 - [291: Artificial Stupidity](http://www.phpugly.com)
 - [290: PHP Lambos and Lambdas](http://www.phpugly.com)
-- [289: PHP Multiverse](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

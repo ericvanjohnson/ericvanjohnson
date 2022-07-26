@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [PHP Blueprint](https://www.phparch.com/podcast/php-blueprint/)
 - [295:PHP Live Studio Audience](http://www.phpugly.com)
 - [294: Packing Pachyderms](http://www.phpugly.com)
 - [293:PHP Biscuits](http://www.phpugly.com)
 - [Database Freedom](https://www.phparch.com/podcast/database-freedom/)
-- [85: The State of PHP User Groups](https://www.phproundtable.com)
 <!-- BLOG-POST-LIST:END -->
 
 

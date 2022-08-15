@@ -29,8 +29,8 @@ Over 20 years of professional IT focus and experience currently working at the [
 - [298: Hire Tom](http://www.phpugly.com)
 - [297:PHP Lovewire](http://www.phpugly.com)
 - [296 Cheating with PHP](http://www.phpugly.com)
+- [PHP Blueprint](https://www.phparch.com/podcast/php-blueprint/)
 - [295:PHP Live Studio Audience](http://www.phpugly.com)
-- [294: Packing Pachyderms](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

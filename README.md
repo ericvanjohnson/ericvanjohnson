@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [300:PHP{Tek] Homecoming](http://www.phpugly.com)
 - [299:No Composer For Old Men](http://www.phpugly.com)
 - [298: Hire Tom](http://www.phpugly.com)
 - [297:PHP Lovewire](http://www.phpugly.com)
 - [296 Cheating with PHP](http://www.phpugly.com)
-- [PHP Blueprint](https://www.phparch.com/podcast/php-blueprint/)
 <!-- BLOG-POST-LIST:END -->
 
 

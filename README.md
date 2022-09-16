@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [303:Naughty Strings](http://www.phpugly.com)
 - [302: Getting Ugly with Foreign Keys](http://www.phpugly.com)
 - [301: Moved Permanently](http://www.phpugly.com)
 - [300:PHP{Tek] Homecoming](http://www.phpugly.com)
 - [299:No Composer For Old Men](http://www.phpugly.com)
-- [298: Hire Tom](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

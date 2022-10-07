@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [306:PHPUgly // Do Not Turn Off](http://www.phpugly.com)
 - [305:PHPUgly Gambit](http://www.phpugly.com)
 - [304: Sober September Gets Ugly](http://www.phpugly.com)
 - [303:Naughty Strings](http://www.phpugly.com)
 - [302: Getting Ugly with Foreign Keys](http://www.phpugly.com)
-- [301: Moved Permanently](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

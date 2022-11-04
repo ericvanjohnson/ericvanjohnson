@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [310: PHP On The Range](http://www.phpugly.com)
 - [309: Punch ourselves in the face](http://www.phpugly.com)
 - [308: Foreign Horse Constraints](http://www.phpugly.com)
 - [307: Code my homework dad](http://www.phpugly.com)
 - [306:PHPUgly // Do Not Turn Off](http://www.phpugly.com)
-- [305:PHPUgly Gambit](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

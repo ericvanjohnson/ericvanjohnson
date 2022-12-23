@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [316:PHP Below Freezing](http://www.phpugly.com)
 - [315: Whiny PHP Babies](http://www.phpugly.com)
 - [314: PHP 8.2 Release Party](http://www.phpugly.com)
 - [313: PHP 7 Retirement Party](http://www.phpugly.com)
 - [311: The Book of PHPUgly](http://www.phpugly.com)
-- [310: PHP On The Range](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

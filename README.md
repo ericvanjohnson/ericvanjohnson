@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [php[podcast] Episode 2023.1.1](https://www.phparch.com/podcast/phppodcast-episode-2023-1-1/)
 - [318:PHP Bug Hunt](http://www.phpugly.com)
 - [317: Certified PHP Ugly](http://www.phpugly.com)
 - [316:PHP Below Freezing](http://www.phpugly.com)
 - [315: Whiny PHP Babies](http://www.phpugly.com)
-- [314: PHP 8.2 Release Party](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

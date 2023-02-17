@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [323: Bad Robot](http://www.phpugly.com)
 - [php[podcast] Episode 23.2.1](https://www.phparch.com/podcast/phppodcast-episode-23-2-1/)
 - [322: PHPlumbers of the Future](http://www.phpugly.com)
 - [321: All In The PHPamily](http://www.phpugly.com)
 - [320: PHP and Taxes](http://www.phpugly.com)
-- [319: Server Racks and Cats](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

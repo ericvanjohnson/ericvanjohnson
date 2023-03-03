@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [325: Air Cutz](http://www.phpugly.com)
 - [324: This Is PHPine](http://www.phpugly.com)
 - [86:The Education of Development](https://www.phproundtable.com)
 - [323: Bad Robot](http://www.phpugly.com)
 - [php[podcast] Episode 23.2.1](https://www.phparch.com/podcast/phppodcast-episode-23-2-1/)
-- [322: PHPlumbers of the Future](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

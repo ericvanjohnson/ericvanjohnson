@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [332: Mann Handling PHP](http://www.phpugly.com)
 - [331: Spicy PHP](http://www.phpugly.com)
 - [330: Taking the world by PHPStorm](http://www.phpugly.com)
 - [329: PHP Benchwarmers](http://www.phpugly.com)
 - [php[podcast] Episode 23.3.1](https://www.phparch.com/podcast/phppodcast-episode-23-3-1/)
-- [328: ChatGPTUgly](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

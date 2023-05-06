@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [334: Show Us You Drupals](http://www.phpugly.com)
 - [333:There's Something About PHP](http://www.phpugly.com)
 - [332: Mann Handling PHP](http://www.phpugly.com)
 - [331: Spicy PHP](http://www.phpugly.com)
 - [330: Taking the world by PHPStorm](http://www.phpugly.com)
-- [329: PHP Benchwarmers](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [338: PHP Just In time](http://www.phpugly.com)
 - [php[podcast] Episode 23.6.1](https://www.phparch.com/podcast/phppodcast-episode-23-3-1-2/)
 - [337:  New [PHP]amily for John](http://www.phpugly.com)
 - [336: Big Data, Little Legs](http://www.phpugly.com)
 - [335: Eric Corrupts PHP](http://www.phpugly.com)
-- [87: Open Sourcing Mental Illness](https://www.phproundtable.com)
 <!-- BLOG-POST-LIST:END -->
 
 

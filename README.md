@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [342: PHPUgly Considered Harmful](http://www.phpugly.com)
 - [341: Embarrassing Ourselves for PHProfit](http://www.phpugly.com)
 - [340: UmpireGPT](http://www.phpugly.com)
 - [339: Two Old Guys Wine for a While](http://www.phpugly.com)
 - [338: PHP Just In time](http://www.phpugly.com)
-- [php[podcast] Episode 23.6.1](https://www.phparch.com/podcast/phppodcast-episode-23-3-1-2/)
 <!-- BLOG-POST-LIST:END -->
 
 

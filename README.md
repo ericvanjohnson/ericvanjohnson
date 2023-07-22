@@ -26,11 +26,11 @@ Over 20 years of professional IT focus and experience currently working at the [
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [344:KISS, my past self](http://www.phpugly.com)
 - [343: Mom Said I Can't](http://www.phpugly.com)
 - [342: PHPUgly Considered Harmful](http://www.phpugly.com)
 - [341: Embarrassing Ourselves for PHProfit](http://www.phpugly.com)
 - [340: UmpireGPT](http://www.phpugly.com)
-- [339: Two Old Guys Wine for a While](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

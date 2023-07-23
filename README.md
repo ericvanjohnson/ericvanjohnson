@@ -1,10 +1,9 @@
 ### Eric Van Johnson
 #### Developer and Architect
-![Developer and Architect](https://user-images.githubusercontent.com/89408/169173634-3bc92438-1eb2-44e4-92c2-6e7d1e36f6a3.gif)
+![Developer and Architect](https://github.com/ericvanjohnson/ericvanjohnson/assets/89408/03e3e32b-0634-4ef7-9d8e-18bdf315883e)
 
 
-
-Over 20 years of professional IT focus and experience currently working at the [Diegodev Group](https://github.com/DiegoDevGroup) and [php[architect]](https://github.com/phparch) while living in SoCal. I'm a PHP Developer, with a passion for working with the [Laravel Framework](https://laravel.com), and I am an advocate of Open Source and the PHP Community. I am powered by 16-year-old single malt Lagavulin Scotch and watching baseball.
+Over 20 years of professional IT focus and experience. currently a team member at [php[architect]](https://github.com/phparch) while living in SoCal. I'm a PHP Developer with a passion for working with the [Laravel Framework](https://laravel.com), and I am an advocate of Open Source and the PHP Community. I am powered by 16-year-old single malt Lagavulin Scotch and watching baseball.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg' alt='github' height='20' rel='me'>](https://phparch.social/@eric)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/shocm)

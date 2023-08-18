@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [348: To Code Test, or Not to Code Test](http://www.phpugly.com)
 - [347: PePHPetual Honeymoon](http://www.phpugly.com)
 - [346: BeeHP](http://www.phpugly.com)
 - [345: The New Glorbo  PHP Operator in 8.3](http://www.phpugly.com)
 - [344:KISS, my past self](http://www.phpugly.com)
-- [343: Mom Said I Can't](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

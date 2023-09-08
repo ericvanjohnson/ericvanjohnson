@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [351: PHPitcing a tent](http://www.phpugly.com)
 - [php[podcast] Episode 23.9.1](https://www.phparch.com/podcast/phppodcast-episode-23-9-1/)
 - [php[podcast] Episode 23.8.1](https://www.phparch.com/podcast/phppodcast-episode-23-8-1/)
 - [350: Challenging Coding Challenges](http://www.phpugly.com)
 - [349: PHP Blame Game](http://www.phpugly.com)
-- [348: To Code Test, or Not to Code Test](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

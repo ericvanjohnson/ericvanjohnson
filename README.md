@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [355: Exposing Ourselves](http://www.phpugly.com)
 - [354: £ Cake](http://www.phpugly.com)
 - [353:tron{tek]](http://www.phpugly.com)
 - [352: Buttery Buns](http://www.phpugly.com)
 - [351: PHPitcing a tent](http://www.phpugly.com)
-- [php[podcast] Episode 23.9.1](https://www.phparch.com/podcast/phppodcast-episode-23-9-1/)
 <!-- BLOG-POST-LIST:END -->
 
 

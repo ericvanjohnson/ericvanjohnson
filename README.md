@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [php[podcast] Episode 23.9.1](https://www.phparch.com/podcast/phppodcast-episode-23-9-1-2/)
 - [360: WeWork with PHP](http://www.phpugly.com)
 - [359: Fullstack Failures](http://www.phpugly.com)
 - [Community Corner: Interview With Eric Van Johnson](https://www.phparch.com/podcast/community-corner-interview-with-eric-van-johnson/)
 - [358: A Better PHP API Platform](http://www.phpugly.com)
-- [357: Tom Offers Up His piHole](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

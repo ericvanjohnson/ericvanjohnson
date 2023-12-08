@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [362: Glue Guns and Ladders](http://www.phpugly.com)
 - [361: The Shutdown](http://www.phpugly.com)
 - [php[podcast] Episode 23.9.1](https://www.phparch.com/podcast/phppodcast-episode-23-9-1-2/)
 - [360: WeWork with PHP](http://www.phpugly.com)
 - [359: Fullstack Failures](http://www.phpugly.com)
-- [Community Corner: Interview With Eric Van Johnson](https://www.phparch.com/podcast/community-corner-interview-with-eric-van-johnson/)
 <!-- BLOG-POST-LIST:END -->
 
 

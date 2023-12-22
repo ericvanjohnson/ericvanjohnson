@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [364: HaPHPy Holiday](http://www.phpugly.com)
 - [363: Day Walkers](http://www.phpugly.com)
 - [362: Glue Guns and Ladders](http://www.phpugly.com)
 - [361: The Shutdown](http://www.phpugly.com)
 - [php[podcast] Episode 23.9.1](https://www.phparch.com/podcast/phppodcast-episode-23-9-1-2/)
-- [360: WeWork with PHP](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [368: Doing lines of PHP](http://www.phpugly.com)
 - [367: Premature Engineering](http://www.phpugly.com)
 - [366: Pinky Out Development](http://www.phpugly.com)
 - [php[podcast] Episode 23.12.1](https://www.phparch.com/podcast/phppodcast-episode-23-12-1/)
 - [365: HaPHPy New Year](http://www.phpugly.com)
-- [Community Corner: Interview With Eric Mann](https://www.phparch.com/podcast/community-corner-interview-with-eric-mann/)
 <!-- BLOG-POST-LIST:END -->
 
 

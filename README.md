@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [371:Herding Lando](http://www.phpugly.com)
 - [370: Speaking Gifts](http://www.phpugly.com)
 - [369:The PHPrice Is Right](http://www.phpugly.com)
 - [368: Doing lines of PHP](http://www.phpugly.com)
 - [367: Premature Engineering](http://www.phpugly.com)
-- [366: Pinky Out Development](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

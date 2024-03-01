@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [374: Sevi Land the Ticket](http://www.phpugly.com)
 - [373: Lunch and Learn](http://www.phpugly.com)
 - [372: Raiders of the Arc](http://www.phpugly.com)
 - [371:Herding Lando](http://www.phpugly.com)
 - [370: Speaking Gifts](http://www.phpugly.com)
-- [369:The PHPrice Is Right](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

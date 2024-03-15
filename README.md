@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [376:Cold Fries and a Warm Shake](http://www.phpugly.com)
 - [Community Corner: ngrok’s Scott McAllister](https://www.phparch.com/podcast/community-corner-ngroks-scott-mcalister/)
 - [375:Snowflake Developers](http://www.phpugly.com)
 - [Community Corner: Interview With April Wensel of Compassionate Coding](https://www.phparch.com/podcast/community-corner-interview-with-april-wensel-of-compassionate-coding/)
 - [374: Sevi Land the Ticket](http://www.phpugly.com)
-- [373: Lunch and Learn](http://www.phpugly.com)
 <!-- BLOG-POST-LIST:END -->
 
 

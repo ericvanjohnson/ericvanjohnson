@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Community Corner: James Seconde](https://www.phparch.com/podcast/community-corner-james-seconde/)
 - [Community Corner: Tim Lytle](https://www.phparch.com/podcast/community-corner-tim-lytle/)
 - [379: Compromising Pull Requests](http://www.phpugly.com)
 - [378: PHP At-Bat](http://www.phpugly.com)
 - [377: Solar Powered PHP](http://www.phpugly.com)
-- [Community Corner: Larry Garfield](https://www.phparch.com/podcast/community-corner-larry-garfield/)
 <!-- BLOG-POST-LIST:END -->
 
 

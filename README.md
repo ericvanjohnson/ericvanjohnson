@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [381: Tek and Friends](http://www.phpugly.com)
 - [Community Corner: Keith “Danger” Casey](https://www.phparch.com/podcast/community-corner-keith-danger-casey/)
 - [Community Corner: Mark Niebergall](https://www.phparch.com/podcast/community-corner-mark-niebergall/)
 - [Community Corner: Nils Adermann](https://www.phparch.com/podcast/community-corner-nils-adermann/)
 - [380:PHPBeauties and the Beast](http://www.phpugly.com)
-- [Community Corner: James Seconde](https://www.phparch.com/podcast/community-corner-james-seconde/)
 <!-- BLOG-POST-LIST:END -->
 
 

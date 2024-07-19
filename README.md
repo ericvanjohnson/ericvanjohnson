@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [390: Bad APIs](http://www.phpugly.com)
 - [91: PHPRoundtable July 2024](https://www.phproundtable.com)
 - [389: Yo PHP Raps!](http://www.phpugly.com)
 - [388: PHPowered by the Sun](http://www.phpugly.com)
 - [387: Good PHP VIBES](http://www.phpugly.com)
-- [90: PHPRoundtable June 2024](https://www.phproundtable.com)
 <!-- BLOG-POST-LIST:END -->
 
 

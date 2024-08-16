@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [393: Query All The Things](http://www.phpugly.com)
 - [92: PHPRoundtable Aug 2024 - Event Sourcing](https://www.phproundtable.com)
 - [392: PHPlight Delay](http://www.phpugly.com)
 - [391: PHPUgly Certified](http://www.phpugly.com)
 - [390: Bad APIs](http://www.phpugly.com)
-- [91: PHPRoundtable July 2024](https://www.phproundtable.com)
 <!-- BLOG-POST-LIST:END -->
 
 

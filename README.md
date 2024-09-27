@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [399: WarPress](http://www.phpugly.com)
 - [398: Cats, Coffee, and PHP](http://www.phpugly.com)
 - [093: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.phproundtable.com)
 - [397: Little Legs](http://www.phpugly.com)
 - [396: PHP Heads and Shoulders](http://www.phpugly.com)
-- [Interview With JD Lien](https://www.phparch.com/podcast/interview-with-jd-lien/)
 <!-- BLOG-POST-LIST:END -->
 
 

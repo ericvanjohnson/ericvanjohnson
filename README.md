@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Battlesnake With Brad Van Vugt](https://www.phparch.com/podcast/battlesnake-with-brad-van-vugt/)
 - [Cascadia PHP With Alena Holligan](https://www.phparch.com/podcast/cascadia-php-with-alena-holligan/)
 - [400: Tom's Second Rodeo](http://www.phpugly.com)
 - [399: WarPress](http://www.phpugly.com)
 - [398: Cats, Coffee, and PHP](http://www.phpugly.com)
-- [093: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.phproundtable.com)
 <!-- BLOG-POST-LIST:END -->
 
 

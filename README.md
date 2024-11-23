@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [2024.11.21](https://www.phparch.com/podcast/2024-11-21/)
+- [The php[podcast] 2024.11.7: PHP for Fun and PHProfit](https://www.phparch.com/podcast/the-phppodcast-2024-11-7-php-for-fun-and-phprofit/)
+- [The php[podcast] 2024.11.7](https://www.phparch.com/podcast/the-phppodcast-2024-11-7/)
 - [401: So long and thanks for all the fish](http://www.phpugly.com)
-- [400: Tom's Second Rodeo](http://www.phpugly.com)
-- [399: WarPress](http://www.phpugly.com)
-- [398: Cats, Coffee, and PHP](http://www.phpugly.com)
-- [093: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.phproundtable.com)
+- [Battlesnake With Brad Van Vugt](https://www.phparch.com/podcast/battlesnake-with-brad-van-vugt/)
 <!-- BLOG-POST-LIST:END -->
 
 

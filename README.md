@@ -25,11 +25,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [php[podcast] 2024.12.12](https://www.phparch.com/podcast/phppodcast-2024-12-12/)
 - [Community Corner: Serverless Architectures With Nelson Isioma](https://www.phparch.com/podcast/community-corner-serverless-architectures-with-nelson-isioma/)
 - [php[podcast] 2024.12.5: Tek(nically) Speaking](https://www.phparch.com/podcast/phppodcast-2024-12-5-teknically-speaking/)
 - [Community Corner: Concurrency With Florian Engelhardt](https://www.phparch.com/podcast/community-corner-concurrency-with-florian-engelhardt/)
 - [2024.11.21](https://www.phparch.com/podcast/2024-11-21/)
-- [The php[podcast] 2024.11.7: PHP for Fun and PHProfit](https://www.phparch.com/podcast/the-phppodcast-2024-11-7-php-for-fun-and-phprofit/)
 <!-- BLOG-POST-LIST:END -->
 
 

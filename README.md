@@ -24,11 +24,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [Community Corner: PHPxWorld with Chris Morrell](https://www.phparch.com/podcast/community-corner-phpxworld-with-chris-morrell/)
 - [php[podcast] 2024.12.19](https://www.phparch.com/podcast/phppodcast-2024-12-19/)
 - [php[podcast] 2024.12.12](https://www.phparch.com/podcast/phppodcast-2024-12-12/)
 - [Community Corner: Serverless Architectures With Nelson Isioma](https://www.phparch.com/podcast/community-corner-serverless-architectures-with-nelson-isioma/)
 - [php[podcast] 2024.12.5: Tek(nically) Speaking](https://www.phparch.com/podcast/phppodcast-2024-12-5-teknically-speaking/)
-- [Community Corner: Concurrency With Florian Engelhardt](https://www.phparch.com/podcast/community-corner-concurrency-with-florian-engelhardt/)
 <!-- BLOG-POST-LIST:END -->
 
 

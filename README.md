@@ -24,11 +24,11 @@ Over 20 years of professional IT focus and experience. currently a team member a
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
-- [401: So long and thanks for all the fish](http://www.phpugly.com)
-- [400: Tom's Second Rodeo](http://www.phpugly.com)
-- [399: WarPress](http://www.phpugly.com)
-- [398: Cats, Coffee, and PHP](http://www.phpugly.com)
-- [093: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.phproundtable.com)
+- [Community Corner: PHPxWorld with Chris Morrell](https://www.phparch.com/podcast/community-corner-phpxworld-with-chris-morrell/)
+- [php[podcast] 2024.12.19](https://www.phparch.com/podcast/phppodcast-2024-12-19/)
+- [php[podcast] 2024.12.12](https://www.phparch.com/podcast/phppodcast-2024-12-12/)
+- [Community Corner: Serverless Architectures With Nelson Isioma](https://www.phparch.com/podcast/community-corner-serverless-architectures-with-nelson-isioma/)
+- [php[podcast] 2024.12.5: Tek(nically) Speaking](https://www.phparch.com/podcast/phppodcast-2024-12-5-teknically-speaking/)
 <!-- BLOG-POST-LIST:END -->
 
 

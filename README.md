@@ -24,11 +24,11 @@ Hey there, I'm Eric Van Johnson, powered by 16-year-old single malt Lagavulin Sc
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [The PHP Podcast: 2025.06.26](https://www.phparch.com/podcast/the-php-podcast-2025-06-26/)
 - [Community Corner: Yelling at Clouds With Chris Hartjes](https://www.phparch.com/podcast/community-corner-yelling-at-clouds-with-chris-hartjes/)
 - [The PHP Podcast: 2025.06.19](https://www.phparch.com/podcast/the-php-podcast-2025-06-19/)
 - [The PHP Podcast: 2025.06.12](https://www.phparch.com/podcast/the-php-podcast-2025-06-12/)
 - [Community Corner: PHP Installer for Extensions(PIE) with James Titcumb](https://www.phparch.com/podcast/community-corner-php-installer-for-extensionspie-with-james-titcumb/)
-- [PHP Deep Dive: May 2025 Release “The Golden Age” (AI Generate Podcast)](https://www.phparch.com/podcast/php-deep-dive-may-2025-release-the-golden-age-ai-generate-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 

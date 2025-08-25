@@ -12,12 +12,14 @@ Hey there, I'm Eric Van Johnson, powered by 16-year-old single malt Lagavulin Sc
 <p align="center">
 <a href="https://app.daily.dev/shocm"><img src="https://api.daily.dev/devcards/v2/y7ct3dSEp45NFSALYHve6.png?type=wide&r=i6p" width="652" alt="Eric Johnson's Dev Card"/></a>
 </p>
+
+
  ### 🎙Podcaster: 
- - [@phparch php[podcast]](https://twitter.com/phparch)
- - [@phproundtable](https://twitter.com/phproundtable)
+ - [@phparch The PHP Podcast](https://x.com/phparch)
+ - [@phproundtable](https://x.com/phproundtable)
  
 ### 💙 My Passion Projects
-- [SDPHP](https://twitter.com/sdphp)
+- [PHPxSan (aka SDPHP)](https://x.com/phpxsan)
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->

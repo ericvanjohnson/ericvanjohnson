@@ -23,11 +23,11 @@ Hey there, I'm Eric Van Johnson, powered by 16-year-old single malt Lagavulin Sc
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
+- [PHP Alive And Kicking 8 – Zuzana Kuchnova](https://www.phparch.com/podcast/php-alive-and-kicking-8-zuzana-kuchnova/)
 - [PHP Alive And Kicking: Episode 7 – Steve McDougall](https://www.phparch.com/podcast/php-alive-and-kicking-episode-7-steve-mcdougall/)
 - [PHP Alive And Kicking: Episode 6 – Matt Stauffer](https://www.phparch.com/podcast/php-alive-and-kicking-episode-6-matt-stauffer/)
 - [The PHP Podcast 2025.10.16 with Nuno Maduro](https://www.phparch.com/podcast/the-php-podcast-2025-10-16-with-nuno-maduro/)
 - [PHP Alive And Kicking: Episode 5 – Saifeddin Gmati](https://www.phparch.com/podcast/php-alive-and-kicking-episode-5-saifeddin-gmati/)
-- [The PHP Podcast 2025.10.09](https://www.phparch.com/podcast/the-php-podcast-2025-10-09/)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -23,11 +23,11 @@ Hey there, I'm Eric Van Johnson, powered by 16-year-old single malt Lagavulin Sc
 
 ### My Latest Podcast
 <!-- BLOG-POST-LIST:START -->
-- [Community Corner: The Official PHP SDK for MCP With Kyrian Obikwelu](https://www.phparch.com/podcast/community-corner-the-official-php-sdk-for-mcp-with-kyrian-obikwelu/)
-- [PHP Alive and Kicking Episode 15: Below Deck with Frank Wallen](https://www.phparch.com/podcast/php-alive-and-kicking-episode-15-below-deck-with-frank-wallen/)
-- [PHP Alive and Kicking Episode 14 – Dan Newns](https://www.phparch.com/podcast/php-alive-and-kicking-episode-14-dan-newns/)
-- [The PHP Podcast 2025.11.13](https://www.phparch.com/podcast/the-php-podcast-2025-11-13/)
-- [PHP Alive And Kicking Episode 13 – Shane and Simon](https://www.phparch.com/podcast/php-alive-and-kicking-episode-13-shane-and-simon/)
+- [401: So long and thanks for all the fish](http://www.phpugly.com)
+- [400: Tom's Second Rodeo](http://www.phpugly.com)
+- [399: WarPress](http://www.phpugly.com)
+- [398: Cats, Coffee, and PHP](http://www.phpugly.com)
+- [093: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.phproundtable.com)
 <!-- BLOG-POST-LIST:END -->
 
 
